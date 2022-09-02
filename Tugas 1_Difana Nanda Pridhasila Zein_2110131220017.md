@@ -40,11 +40,11 @@ Zoom adalah aplikasi komunikasi menggunakan video dan dapat digunakan dalam berb
 
 - Office 365
 
-Software ini mungkin menjadi salah satu yang terpenting bagi semua orang karena memang sangat diperlukan dalam aktivitas sehari-hari. Contohnya saja seperti word,excel, power point dan lainya.
+Software ini mungkin menjadi salah satu yang terpenting bagi semua orang karena memang sangat diperlukan dalam aktivitas sehari-hari. Contohnya saja seperti word,excel, power point dan lainya. Kehidupan seorang mahasiswa tidak dapat dipisahkan dengan software tersebut dikarenakan tugas ataupun karya yang lainnya dibuat dengan menggunakan Office 365.
 
 - Visual Studio Code
 
-Software ini juga sama seperti Office 365 menjadi hal penting terutama bagi anak IT, bukan hanya VSC editor yang saya gunakan dilaptop ini ada juga beberapa editor seperti Idle python, MariaDB, NotePad.
+Software ini juga sama pentingnya seperti Office 365 terutama untuk anak IT seperti saya. Hampir semua kegiatan yang berhubungan dengan IT dilakukan menggunakan software ini. Ada banyak pilihan bahasa yang dapat digunakan dan ada banyak ekstensi yang diberikan guna membantu pengguna. Tidak hanya VSC saja editor yang saya gunakan dilaptop tetapi ada juga beberapa editor lainnya seperti Idle python, MariaDB dan NotePad.
 
 3 Point diatas adalah contoh beberapa software yang sering saya gunakan tentunya, termasuk Chrome. Tetapi ada juga beberapa software yang pernah saya gunakan seperti Photoshop dan CorelDraw.
 
